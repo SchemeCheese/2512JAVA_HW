@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2512JAVA_HW/2. java core/2. java core.iml" filepath="$PROJECT_DIR$/2512JAVA_HW/2. java core/2. java core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2512JAVA_HW/3. BTVN/3. BTVN.iml" filepath="$PROJECT_DIR$/2512JAVA_HW/3. BTVN/3. BTVN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/BE2512.iml" filepath="$PROJECT_DIR$/.idea/BE2512.iml" />
+    </modules>
+  </component>
+</project>
